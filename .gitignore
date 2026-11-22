@@ -1,0 +1,10 @@
+/target/
+*.pdb
+r34_config.json
+r34_history.db*
+r34_queue.json
+r34_failed_queue.json
+diagnose_report.txt
+*.part
+*.tmp
+*.log
